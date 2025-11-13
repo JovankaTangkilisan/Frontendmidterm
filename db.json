@@ -7,18 +7,18 @@
   "projects": [
     {
       "id": 1,
-      "title": "Event",
-      "desc": "Event 1"
+      "title": "Student",
+      "desc": "I am currently an active seventh-semester student."
     },
     {
       "id": 2,
       "title": "Coaching",
-      "desc": "Event 2"
+      "desc": "I often teach Zumba and dance."
     }
   ],
   "about": {
     "title": "About Me",
-    "description": "I'm a passionate Zumba instructor"
+    "description": "Hello, my name is Jovanka Tangkilisan, but my close friends usually call me Queen. I am currently a student at Klabat University, majoring in Informatics. In addition to being a student, I also work as a ZIN (Zumba Instructor Network) member and a dancer."
   },
   "contact": {
     "email": "manuelatangkilisan@gmail.com",
