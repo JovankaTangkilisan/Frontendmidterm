@@ -1,0 +1,28 @@
+{
+  "profile": {
+    "name": "Jovanka Tangkilisan",
+    "role": "ZIN Queen",
+    "bio": "Zumba coach and dance"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Event",
+      "desc": "Event 1"
+    },
+    {
+      "id": 2,
+      "title": "Coaching",
+      "desc": "Event 2"
+    }
+  ],
+  "about": {
+    "title": "About Me",
+    "description": "I'm a passionate Zumba instructor"
+  },
+  "contact": {
+    "email": "manuelatangkilisan@gmail.com",
+    "instagram": "@que.tngklsn",
+    "location": "Manado, Indonesia"
+  }
+}
